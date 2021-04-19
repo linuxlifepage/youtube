@@ -1,2 +1,1 @@
-# youtube
-Descriptions and pages for youtube video
+# Страницы описания и инструкций для видео на youtube
